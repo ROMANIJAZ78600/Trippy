@@ -58,8 +58,7 @@
   .first-desc-reverse {
     display: flex;
     flex-direction: column-reverse;
-
-    margin: 4.5rem;
+    margin: 2.5rem;
   }
   .desc-text {
     width: 100%;
